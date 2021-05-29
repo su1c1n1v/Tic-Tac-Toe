@@ -1,4 +1,4 @@
-##Tic Tac Toe 
+Tic Tac Toe 
 
 
 The project was developed in C# and i need to create the game tic tac toe.
